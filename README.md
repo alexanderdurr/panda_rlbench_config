@@ -1,5 +1,3 @@
-# Franka Emika Panda MoveIt Config Package
+# Franka Emika Panda RLBench Config Package
 
-The Panda robot is the flagship MoveIt integration robot used in the MoveIt tutorials.
-Any changes to MoveIt need to be propagated into this config fast, so this package
-is co-located under the ``ros-planning`` Github organization here.
+The base of this repository starts with the panda_moveit_config and we altered it to fit with the configuration required for RLBench simulation setup to work on the real robot.
